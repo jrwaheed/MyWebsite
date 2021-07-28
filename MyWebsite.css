@@ -1,0 +1,11 @@
+.main {
+    position: relative;
+    word-wrap: break-word;
+    width: 50%;
+    text-align: left;
+    color: red;
+}
+
+.follow {
+    position:relative;
+}
